@@ -1,0 +1,26 @@
+{
+  "name": "node-react-expense-tracker",
+  "version": "1.0.0",
+  "description": "tracking my expense",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^0.0.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "express": "3.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabonillomelvin/node-react-expense-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabonillomelvin/node-react-expense-tracker/issues"
+  },
+  "homepage": "https://github.com/jabonillomelvin/node-react-expense-tracker#readme"
+}
